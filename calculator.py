@@ -1,4 +1,4 @@
-[class Calculator:
+class Calculator:
     def add(self, a, b):
         """Adds two numbers and returns the result."""
         return a+b
