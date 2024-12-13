@@ -1,4 +1,4 @@
-class Calculator:
+[class Calculator:
     def add(self, a, b):
         """Adds two numbers and returns the result."""
         return a+b
@@ -21,7 +21,7 @@ class Calculator:
 
     def power(self, base, exponent):
         """Raises the base to the power of the exponent and returns the result."""
-        return a**b
+        return base**exponent
 
     def modulus(self, a, b):
         """Calculates the modulus of two numbers and returns the result."""
